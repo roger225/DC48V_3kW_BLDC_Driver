@@ -1,0 +1,51 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "9361c1c3-d2c4-465c-97c4-cd54e8c4f6f1")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 54.61 49.53)
+		(size 30.48 24.13)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "77bc8fb6-64f0-4df8-bdfe-cd9a9895cd39")
+		(property "Sheetname" "CurrentAmplifier"
+			(at 54.61 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CurrentAmplifier.kicad_sch"
+			(at 54.61 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DC48V_3kW_BLDC_Driver"
+				(path "/9361c1c3-d2c4-465c-97c4-cd54e8c4f6f1"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Infineon_OptiMOS5_Power_MOSFET")(type "KiCad")(uri "${KIPRJMOD}/Infineon_OptiMOS5_Power_MOSFET.kicad_sym")(options "")(descr ""))
+)
